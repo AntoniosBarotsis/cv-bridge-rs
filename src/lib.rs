@@ -1,3 +1,4 @@
+#![allow(warnings)]
 #![doc(html_favicon_url = "https://omkarkabadagi5823.github.io/cv_bridge/logo.ico")]
 #![doc(html_logo_url = "https://omkarkabadagi5823.github.io/cv_bridge/logo.png")]
 //! `cv-bridge` is a crate for converting between OpenCV and ROS Image.

@@ -14,4 +14,4 @@ repository = "https://github.com/OmkarKabadagi5823/cv-bridge-rs.git"
 [dependencies]
 byteorder = "1.4.3"
 opencv = "0.76.4"
-rosrust = "0.9.10"
+rosrust = { repo = "https://github.com/AntoniosBarotsis/rosrust" }
